@@ -70,7 +70,7 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## 🌱 Практика и стажировка
 [<img src="/internship.jpg" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/leila-minnigulova-qa/leila-minnigulova-qa/refs/heads/main/internship.jpg)
 
 <br>
