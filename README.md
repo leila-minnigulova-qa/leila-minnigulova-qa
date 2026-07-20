@@ -71,7 +71,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Certificate.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса»">](https://raw.githubusercontent.com/leila-minnigulova-qa/leila-minnigulova-qa/refs/heads/main/Certificate.jpg)
+[<img src="/Certificate.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса»">](https://raw.githubusercontent.com/leila-minnigulova-qa/leila-minnigulova-qa/refs/heads/main/Certificate.jpg)
 
 
 <br>
