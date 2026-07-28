@@ -68,13 +68,7 @@
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
 
-<br>
 
-## 🎒 Образование
-[<img src="/Certificate.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса»">](https://raw.githubusercontent.com/leila-minnigulova-qa/leila-minnigulova-qa/refs/heads/main/сертификат.jpg)
-
-
-<br>
 <br>
 
 ## 🤝 Контакт
